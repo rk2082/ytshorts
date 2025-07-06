@@ -1,0 +1,11 @@
+# Bark TTS + YouTube Shorts Automation (Hindi)
+
+🎙️ Bark AI का उपयोग करके हिंदी में realistic आवाज़ बनाएं  
+🎥 FFmpeg से वीडियो मर्ज करें  
+📡 Make.com से webhook कॉल करें  
+🚀 Render.com पर मुफ्त में deploy करें
+
+✅ Requirements:
+- Pexels API Key
+- FastAPI
+- Bark (preloaded via script)
